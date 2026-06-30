@@ -42,17 +42,17 @@
     <h2>Our Doctors</h2>
     <div class="doctors">
       <div class="doctor-card">
-        <img src="https://images.unsplash.com/photo-1607746882042-944635dfe10e" alt="Doctor 1">
-        <h3>Dr. Sarah Johnson</h3>
+        <img src="image.png" alt="Doctor 1">
+        <h3>Dr.dactor</h3>
         <p>Cardiologist</p>
       </div>
       <div class="doctor-card">
-        <img src="https://images.unsplash.com/photo-1607746882042-944635dfe10e" alt="Doctor 2">
+        <img src="image1.png" alt="Doctor 2">
         <h3>Dr. Ahmed Ali</h3>
         <p>Pediatrician</p>
       </div>
       <div class="doctor-card">
-        <img src="https://images.unsplash.com/photo-1607746882042-944635dfe10e" alt="Doctor 3">
+        <img src="pharmacy - Search Images.png" alt="Doctor 3">
         <h3>Dr. Maria Lopez</h3>
         <p>Neurologist</p>
       </div>
