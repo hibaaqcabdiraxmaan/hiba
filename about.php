@@ -6,13 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-<<<<<<< HEAD
-    <h1>
-        hello world
-    </h1>
-=======
-    <h1>Hello, World!</h1>
-
->>>>>>> 9c7e94c20aade56199d08d03c0454f0c6005fabf
+    
 </body>
 </html>
